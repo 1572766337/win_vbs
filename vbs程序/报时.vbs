@@ -1,0 +1,1 @@
+createobject("sapi.spvoice").speak "ÏÖÔÚÊ±¿Ì£¬"&time
